@@ -38,15 +38,20 @@
 </p>
 
 
-## Portfolio
-### [Done](https://github.com/stars/1kovalevskiy/lists/portfolio)
+## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
+### Done
 [YaTube](https://github.com/1kovalevskiy/yatube)
+
 [Foodgram](https://github.com/1kovalevskiy/foodgram)
+
 [YamDB](https://github.com/1kovalevskiy/yamdb)
+
 [YaTube-API](https://github.com/1kovalevskiy/api-yatube)
-### [In work](https://github.com/stars/1kovalevskiy/lists/in-work)
+
+### In work
 [Foodgram-fastapi](https://github.com/1kovalevskiy/foodgram-fastapi)
-### [In plan](https://github.com/stars/1kovalevskiy/lists/in-plan)
+
+### In plan
 [Foodgram-aiohttp](https://github.com/1kovalevskiy/foodgram-aiohttp)
 
 
