@@ -1,6 +1,12 @@
-### Hi there 👋
 <h1 align="center">Hi there, I'm Nikita 👋</h1>
-<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
+<h3 align="center">Researcher in Boreskov Institute of Catalysis, Novosibirsk 🇷🇺</h3>
+<h3 align="center">Backend-developer as a hobby!</h3>
+
+### Favorite technologies
+<p align="left"> 
+
+</p>
+
 <!--
 **1kovalevskiy/1kovalevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
