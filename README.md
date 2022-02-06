@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Nikita 👋</h1>
+<h1 align="center">Hi there, I'm Nikita  
+<a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
+<a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
+</h1>
 <h3 align="center">Researcher in Boreskov Institute of Catalysis, Novosibirsk 🇷🇺</h3>
 <h3 align="center">Backend-developer as a hobby!</h3>
 
@@ -37,6 +40,8 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/Go.png?raw=true" alt="python" height="40"/> </a>
 </p>
 
+
+
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
 ### ⭐️ Done
 [YaTube](https://github.com/1kovalevskiy/yatube)
@@ -52,9 +57,3 @@
 
 ### 🗃 In plan
 [Foodgram-aiohttp](https://github.com/1kovalevskiy/foodgram-aiohttp)
-
-## Contacts
-<p align="left">
-<a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
-<a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
-</p>
