@@ -4,8 +4,12 @@
 
 ### Favorite technologies
 <p align="left"> 
-
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/python.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/django.png?raw=true" alt="python" height="40"/> </a> 
+<a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/drf.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/postgres.png?raw=true" alt="python" height="40"/> </a>
 </p>
+
 
 <!--
 **1kovalevskiy/1kovalevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
