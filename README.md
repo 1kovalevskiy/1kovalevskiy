@@ -7,7 +7,12 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/python.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/django.png?raw=true" alt="python" height="40"/> </a> 
 <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/drf.png?raw=true" alt="python" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/postgres.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/sqlite.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/postgres.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://nginx.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/nginx.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/docker.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/github.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/github%20actions.png?raw=true" alt="python" height="40"/> </a>
 </p>
 
 
