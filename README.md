@@ -5,9 +5,13 @@
 <h3 align="center">Researcher in Boreskov Institute of Catalysis, Novosibirsk 🇷🇺</h3>
 <h3 align="center">Backend-developer as a hobby!</h3>
 
+<p align="center">
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
+<img src="https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Followers" alt="python" height="120"/>
+</p>
 
 ## Technologies
-### Active use
+#### Active use
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/python.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/django.png?raw=true" alt="python" height="40"/> </a> 
@@ -22,14 +26,14 @@
 <a href="https://cloud.yandex.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/yandex_cloud.png?raw=true" alt="python" height="40"/> </a>
 </p>
 
-### In study
+#### In study
 <p align="left"> 
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/fastapi.svg" alt="python" height="40"/> </a>
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20study/sqla.png?raw=true" alt="python" height="40"/></a>
 <a href="https://docs.aiohttp.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/aiohttp.svg" alt="python" height="40"/> </a>
 </p>
 
-### In plans
+#### In plans
 <p align="left">
 <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/celery.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/99e30a5e1be7ceab22cc02429864a8e34be33204/icons/In%20plans/rabbitmq.svg" alt="python" height="40"/> </a>
@@ -43,7 +47,7 @@
 
 
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
-### ⭐️ Done
+#### ⭐️ Done
 [YaTube](https://github.com/1kovalevskiy/yatube)
 
 [Foodgram](https://github.com/1kovalevskiy/foodgram)
@@ -52,8 +56,11 @@
 
 [YaTube-API](https://github.com/1kovalevskiy/api-yatube)
 
-### 👨‍💻 In work
+#### 👨‍💻 In work
 [Foodgram-fastapi](https://github.com/1kovalevskiy/foodgram-fastapi)
 
-### 🗃 In plan
+#### 🗃 In plan
 [Foodgram-aiohttp](https://github.com/1kovalevskiy/foodgram-aiohttp)
+
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=koval701&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
+
