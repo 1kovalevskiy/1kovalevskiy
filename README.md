@@ -37,9 +37,8 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/Go.png?raw=true" alt="python" height="40"/> </a>
 </p>
 
-
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
-### Done
+### ⭐️ Done
 [YaTube](https://github.com/1kovalevskiy/yatube)
 
 [Foodgram](https://github.com/1kovalevskiy/foodgram)
@@ -48,10 +47,10 @@
 
 [YaTube-API](https://github.com/1kovalevskiy/api-yatube)
 
-### In work
+### 👨‍💻 In work
 [Foodgram-fastapi](https://github.com/1kovalevskiy/foodgram-fastapi)
 
-### In plan
+### 🗃 In plan
 [Foodgram-aiohttp](https://github.com/1kovalevskiy/foodgram-aiohttp)
 
 
