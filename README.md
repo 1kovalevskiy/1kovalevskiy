@@ -16,7 +16,12 @@
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/github%20actions.png?raw=true" alt="python" height="40"/> </a>
 </p>
 
-
+### In study
+<p align="left"> 
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/fastapi.svg" alt="python" height="40"/> </a>
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20study/sqla.png?raw=true" alt="python" height="40"/></a>
+<a href="https://docs.aiohttp.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/aiohttp.svg" alt="python" height="40"/> </a>
+</p>
 <!--
 **1kovalevskiy/1kovalevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
