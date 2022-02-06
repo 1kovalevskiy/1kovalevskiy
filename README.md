@@ -10,7 +10,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Followers" alt="python" height="120"/>
 </p>
 
-## Technologies
+## Main technologies
 #### Active use
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/python.png?raw=true" alt="python" height="40"/> </a>
