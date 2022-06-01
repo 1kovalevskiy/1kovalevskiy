@@ -16,6 +16,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/python.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/django.png?raw=true" alt="python" height="40"/> </a> 
 <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/drf.png?raw=true" alt="python" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/fastapi.svg" alt="python" height="40"/> </a>
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20study/sqla.png?raw=true" alt="python" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20study/flask.png?raw=true" alt="python" height="40"/></a>
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/sqlite.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Favorite%20technologies/postgres.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://www.pytest.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/3c1a2fe18f387493e661fb841e11d739d49061bd/icons/Favorite%20technologies/pytest.svg" alt="python" height="40"/> </a>
@@ -28,8 +31,7 @@
 
 #### In study
 <p align="left"> 
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/fastapi.svg" alt="python" height="40"/> </a>
-<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20study/sqla.png?raw=true" alt="python" height="40"/></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/Go.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://docs.aiohttp.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/e83b1783e3dfa3eddd8efaeeb9741c292f5e2f78/icons/In%20study/aiohttp.svg" alt="python" height="40"/> </a>
 </p>
 
@@ -41,18 +43,26 @@
 <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/1kovalevskiy/1kovalevskiy/99e30a5e1be7ceab22cc02429864a8e34be33204/icons/In%20plans/clickhouse.svg" alt="python" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/terraform.png?raw=true" alt="python" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/Kubernetes.png?raw=true" alt="python" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/In%20plans/Go.png?raw=true" alt="python" height="40"/> </a>
+
 </p>
 
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
 #### ⭐️ Done
-[YaTube](https://github.com/1kovalevskiy/yatube)
+[YaTube (Django)](https://github.com/1kovalevskiy/yatube)
 
-[Foodgram](https://github.com/1kovalevskiy/foodgram)
+[Foodgram (DRF)](https://github.com/1kovalevskiy/foodgram)
 
-[YamDB](https://github.com/1kovalevskiy/yamdb)
+[YamDB (DRF)](https://github.com/1kovalevskiy/yamdb)
 
-[YaTube-API](https://github.com/1kovalevskiy/api-yatube)
+[YaTube-API (DRF)](https://github.com/1kovalevskiy/api-yatube)
+
+[What to watch (Flask)](https://github.com/1kovalevskiy/what_to_watch)
+
+[YaCut (Flask)](https://github.com/1kovalevskiy/YaCut)
+
+[Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room)
+
+[QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot)
 
 #### 👨‍💻 In work
 [Foodgram-fastapi](https://github.com/1kovalevskiy/foodgram-fastapi)
