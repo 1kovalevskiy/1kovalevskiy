@@ -2,8 +2,7 @@
 <a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
 <a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
 </h1>
-<h3 align="center">Researcher in Boreskov Institute of Catalysis, Novosibirsk 🇷🇺</h3>
-<h3 align="center">Backend-developer as a hobby!</h3>
+<h3 align="center">Software Developer at Yandex</h3>
 
 <p align="center">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
